@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="398.5" height="101.5">
+    <defs>
+        <filter id="0icpgmy35a">
+            <feFlood flood-color="#FFF" flood-opacity="1" result="floodOut"/>
+            <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut"/>
+            <feBlend in="compOut" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <text font-family="PTSans" font-size="15" x="109" y="-1587.905">We use only the best organic ingredients and gluten and dairy free cooking.</text>
+    <text font-family="AkzidenzGroteskBQ" font-size="25" x="111" y="21.925">CLEAN AND HEALTHY</text>
+    <path fill-rule="evenodd" fill="#030303" d="M0 0h99.1v99.1H0V0z"/>
+    <g filter="url(#0icpgmy35a)" stroke="#000" stroke-width="3" fill="none">
+        <path d="M29.285 66.744c-9.726-9.731-9.726-25.509 0-35.24C44.774 16.006 80 15.999 80 15.999s-.007 35.246-15.496 50.745c-9.726 9.731-25.494 9.731-35.219 0z"/>
+        <path d="M24.937 83.599s-5.88-47.183 54.329-66.864"/>
+        <path d="M55.772 29.961v-.735h-.734v-6.613h1.468v5.878h15.418v1.47H55.772zm9.544 13.226H39.62v-.735h-.734V28.491h1.468v13.226h24.962v1.47zm-5.873 16.165H30.81v-.735h-1.468V39.513h1.468v18.369h28.633v1.47z"/>
+    </g>
+</svg>

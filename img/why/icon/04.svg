@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="403.5" height="101.5">
+    <defs>
+        <filter id="65k3l5s1na">
+            <feFlood flood-color="#FFF" flood-opacity="1" result="floodOut"/>
+            <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut"/>
+            <feBlend in="compOut" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <text font-family="PTSans" font-size="15" x="109" y="-1587.905">We are able to serve events from 2 to 2000 guests and always at reasonable prices.</text>
+    <text font-family="AkzidenzGroteskBQ" font-size="25" x="109" y="22.925">FITS ANY SIZE AND BUDGET</text>
+    <path fill-rule="evenodd" fill="#030303" d="M0 0h99.1v99.1H0V0z"/>
+    <g filter="url(#65k3l5s1na)" stroke="#000" stroke-width="3" fill="none">
+        <path d="M78.935 51.469 51.722 78.515a6.97 6.97 0 0 1-3.629 1.911 6.99 6.99 0 0 1-2.842.578l-16.969-.155c-3.904-.035-7.099-3.21-7.134-7.091l-.156-16.864c-.021-2.23 1.027-4.184 2.645-5.457.129-.152.234-.316.378-.459l27.212-27.046a7.03 7.03 0 0 1 9.896 0l17.812 17.703a6.924 6.924 0 0 1 0 9.834zM37.827 63.766a4.919 4.919 0 0 0-6.926 0 4.846 4.846 0 0 0 0 6.884 4.919 4.919 0 0 0 6.926 0 4.846 4.846 0 0 0 0-6.884z"/>
+        <path d="M36.219 73.329S25.023 63.245 25.023 42.035 29.921 16.1 32.02 16.1s5.948 5.072 6.298 22.458"/>
+    </g>
+</svg>
